@@ -39,7 +39,7 @@ The hypothesis we are taking under consideration are:
 
 ![img_3.png](img_3.png)
 
-Conclusion : The graph generated indicates that the rate of terrorism in first world countries is declining as compared to the rate of terrorism in third world countries. Hence our hypothesis stands true.
+Conclusion : The graph generated indicates that the rate of terrorism in first world countries is more as compared to the rate of terrorism in third world countries. Hence our hypothesis stands false.
 
 2)	Attackers who assassinated government officials were holding non-immigrant visas.
 
