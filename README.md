@@ -37,7 +37,7 @@ The hypothesis we are taking under consideration are:
 
 1)	We expect to see a decrease in terrorist activities in first world countries(USA, UK, France) as compared to third world countries(Pakistan, Bangladesh, India) due to advancement in technology since 1970s.
 
-![img_3.png](img_3.png)
+![img_14.png](img_14.png)
 
 Conclusion : The graph generated indicates that the rate of terrorism in first world countries is more as compared to the rate of terrorism in third world countries. Hence our hypothesis stands false.
 
