@@ -19,8 +19,9 @@ Our analysis would be beneficial for people to understand which countries are sa
 
 Team Members
 
-Bhairavi Jadhav- bjadhav2@illinois.edu
-Sarthak Bhingarde- sbhing2@illinois.edu
+# Sarthak Bhingarde - sbhing2@illinois.edu
+
+# Bhairavi Jadhav - bjadhav2@illinois.edu
 
 Datasets used for Analysis
 
@@ -123,6 +124,7 @@ We see that most Armed Assaults have taken place in South Asian region as well.
 
 We see that most Hijackings have taken place in Sub-Saharan African region as well. 
 
+We see that population in the Asian countries may be more due to which an increased terrorist activities can be seen there. However, since there are more number of people in Asian countries, more number of terrorist activities are bound to happen there.
 
 Hence, we have successfully tested three hypothesis, two of which stood false and one stood true.
 
