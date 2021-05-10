@@ -24,7 +24,9 @@ Sarthak Bhingarde- sbhing2@illinois.edu
 
 Datasets used for Analysis
 
-Terrorism, terrorists and perpetrators data: (https://www.kaggle.com/START-UMD/gtd ). 
+Terrorism : https://www.kaggle.com/START-UMD/gtd
+
+terrorists and perpetrators data: https://data.world/tommyblanchard/u-s-terrorist-origins
 
 Income: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
 
@@ -37,52 +39,91 @@ The hypothesis we are taking under consideration are:
 
 1)	We expect to see a decrease in terrorist activities in first world countries(USA, UK, France) as compared to third world countries(Pakistan, Bangladesh, India) due to advancement in technology since 1970s.
 
-![img_16.png](img_16.png)
+We think that this hypothesis makes sense because due to advances in technologies and better government in first world technologies, we expect terrorist activities to be less there.
+      
 
-Conclusion : The graph generated indicates that the rate of terrorism in first world countries is more as compared to the rate of terrorism in third world countries. Hence our hypothesis stands false.
+![img_17.png](img_17.png)
 
-2)	Attackers who assassinated government officials were holding non-immigrant visas.
+On plotting a chart for the above mentioned hypothesis we find that terrorist activities in third world countries is more as compared to first world countries even when population parameter is considered. Hence, hypothesis stands True.
 
-![img_4.png](img_4.png)
+2)	We expect that people holding Nonimmigrant visa's or temporary visas attack Government officials in all countries
 
-In Mexico, Permanent residents and people with unknown visa status have made the most amount of attacks on government officials.
+We chose this hypothesis assuming that people who enter a country on temporary visas and have an intention to harm the country mostly will target government officials to cause unstability and turmoil in the country.
+      
+![img_18.png](img_18.png)
 
-![img_5.png](img_5.png)
+Here we find that people with Nonimmigrant or temporary visa's attack more on Private property and citizens as compared to Government officials. Hence, our hypothesis stands False.
+However, to ensure that the population does not cause any form of bias here, we decided to choose a few countries and check what kind of people are targetted in them by Nonimmigrant visa holders.
+We chose the below mentioned countries,
 
-The attacks on Government officials in France were made by people who hold non-immigrant visas.
+In United Kingdom, Private citizens were targetted more as compared to others.
 
-![img_6.png](img_6.png)
+![img_19.png](img_19.png)
 
-Jordan has the most amount of attacks on Government officials made by naturalised citizens.
+In France, businesses were targetted mroe as compared to others.
 
-![img_7.png](img_7.png)
+![img_20.png](img_20.png)
 
-Conclusion: The most number of attacks on government officials all over the world were made by naturalised citizens.
+In Pakistan, Private citizens were targetted more as compared to others.
 
+![img_21.png](img_21.png)
 
+In Bangladesh, Private citizens were targetted more as compared to others.
 
-To analyse this further, we checked which group non-immigrants targeted the most.
+![img_22.png](img_22.png)
 
-![img_8.png](img_8.png)
-
-The most number of attacks by non immigrants were made on private citizens and property.
 
 3)	Unmarried people of ages between 20-30 are more likely to commit terrorist activities as compared to people not categorized in the above criteria.
 
+We chose this hypothesis because young people posses the energy to commit such acts. Also, people with no responsibilities are easily influenced to cary out such activities as compared to people who have family responsibilities.
+
 ![img_9.png](img_9.png)
 
-The country-wise distribution is as follows:
+Hence, from the above chart we find that out hypothesis stands False, and we see that people in the age group of 30-40 commit more acts of terrorism.
 
-![img_10.png](img_10.png)
+However, to not make population a factor of bias here as well, we decided to find country wise data for the above mentioned hypothesis and plot them below.
 
-![img_11.png](img_11.png)
+![img_23.png](img_23.png)
 
-![img_12.png](img_12.png)
+![img_24.png](img_24.png)
 
-In all the above countries the most number of attacks were done by terrorists in the 30-40 age group.
+![img_26.png](img_26.png)
+
+![img_27.png](img_27.png)
+
+In all the above countries the most number of terrorist attacks were done by people in the 30-40 age group as well, hence, our hypothesis stands false here as well.
+
+# Further Analysis
+
+To further analyse the dataset which we have, we decided to find the regions where most of the terrorist activities are committed around the world.
+
+We plotted them below and found that, South Asian region is where more terrorist activities are committed.
+
+![img_28.png](img_28.png)
+
+To check what kind of attacks are conducted in different regions, we checked all the regions for few types of attacks which are plotted below,
+
+![img_29.png](img_29.png)
+
+We see that most bombings have occurred in Middle east and North African region.
 
 
-Conclusion : The graph generated indicates that a larger proportion of individuals who are arrested belong in the age group of 30- 40. Hence our hypothesis does not stand true.
+![img_30.png](img_30.png)
+
+We see that most Assassinations have taken place in South Asian region.
 
 
-We can further analyse this dataset to see what kind of weapons were used to carry out acts of terrorism or what are the most common types of attacks in different countries and whether the perpetrators were charged or not.
+![img_31.png](img_31.png)
+
+We see that most Armed Assaults have taken place in South Asian region as well. 
+
+
+![img_32.png](img_32.png)
+
+
+We see that most Hijackings have taken place in Sub-Saharan African region as well. 
+
+
+Hence, we have successfully tested three hypothesis, two of which stood false and one stood true.
+
+We also further analyzed the data to find types of attacks carried out throughout the world in different regions.
